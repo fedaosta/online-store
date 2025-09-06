@@ -160,7 +160,7 @@ export const formInputList: iFormInputList[] = [
     label: "product description",
     type: "text",
   },
-  
+
   {
     id: "image",
     name: "imgeUrl",
@@ -174,3 +174,18 @@ export const formInputList: iFormInputList[] = [
     type: "text",
   },
 ];
+export const colors = [
+  "#FF0032",
+  "#2563eb",
+  "#FF6E31",
+  "#a855f7",
+  "#820000",
+  "#000000",
+  "#3C2A21",
+  "#CB1C9D",
+  "#645CBB",
+  "#1F8A40",
+  "#CB1C2D",
+  "#64523B",
+  "#1F8000",
+]
